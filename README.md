@@ -139,7 +139,7 @@ AgriGPT/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AgriGPT.git
+git clone https://github.com/sakina Khan/AgriGPT.git
 ```
 
 Navigate into the project
